@@ -12,4 +12,4 @@ Neural Tensor Network Implementation as a keras layer. Based on the paper
 - numpy, scipy
 
 
-[[https://github.com/dapurv5/keras-neural-tensor-layer/blob/master/images/ntn.png]]
+![alt tag](https://github.com/dapurv5/keras-neural-tensor-layer/blob/master/images/ntn.png)
