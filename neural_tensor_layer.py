@@ -25,7 +25,7 @@ class NeuralTensorLayer(Layer):
     self.W = K.variable(initial_W_values)
     self.V = K.variable(initial_V_values)
     self.b = K.zeros((self.input_dim,))
-    self.trainable_weights = [self.W, self.b]
+    self.trainable_weights = [self.W, self.V, self.b]
 
 
   def call(self, inputs, mask=None):
