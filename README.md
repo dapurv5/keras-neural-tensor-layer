@@ -7,8 +7,8 @@ Neural Tensor Network Implementation as a keras layer. Based on the paper
 
 
 #### Requirements
-- keras === 1.0.1
-- tensorflow >0.9
+- keras === 2.0.0
+- tensorflow === 1.0.1
 - numpy, scipy
 
 
